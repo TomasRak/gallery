@@ -1,0 +1,31 @@
+.videoControls {
+    bottom: 0px;
+    margin: 10px;
+    margin-left:1%;
+    margin-right:1%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.815);
+    width: 97%;
+}
+
+.slider {
+    position: absolute;
+    left: 50px;
+    top:18%;
+    width:92%;
+    /* height:10px; */
+}
+
+.button {
+    position:relative;
+    font-size: 10px;
+    margin:5px;
+}
+
+.buttonPlay{
+    float:left;
+}
+
+.buttonMax{
+    float:right;
+}

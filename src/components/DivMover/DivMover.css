@@ -1,0 +1,50 @@
+* {
+    text-align-last: center;
+}
+
+.h1{
+
+}
+
+.rectButton{
+    height: 60px;
+}
+
+.rectSizeInput{
+    display:inline;
+    width:200px;
+    margin-right: 20px;
+}
+
+.possibleSizes{
+    margin:auto;
+    width:300px;
+    margin-bottom: 10px;
+}
+
+.autoMoveInterval{
+    width:100px;
+}
+
+.mover{
+    position: absolute;
+    background-color: black;
+    height: 10px;
+    width: 10px;
+}
+
+.outerBox{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 0px;
+    margin:auto;
+    width: 350px;
+}
+
+.innerBox{
+    position: relative;
+    border: 1px solid black;
+    margin:auto;
+    height: 300px;
+    width: 300px;
+}
